@@ -1,0 +1,10 @@
+C:\Users\Javier Gonzalez\Documents\CodingDojo\Bootcamp\C#\C#_IntroAssignments\CallCard\bin\Debug\netcoreapp2.0\CallCard.deps.json
+C:\Users\Javier Gonzalez\Documents\CodingDojo\Bootcamp\C#\C#_IntroAssignments\CallCard\bin\Debug\netcoreapp2.0\CallCard.runtimeconfig.json
+C:\Users\Javier Gonzalez\Documents\CodingDojo\Bootcamp\C#\C#_IntroAssignments\CallCard\bin\Debug\netcoreapp2.0\CallCard.runtimeconfig.dev.json
+C:\Users\Javier Gonzalez\Documents\CodingDojo\Bootcamp\C#\C#_IntroAssignments\CallCard\bin\Debug\netcoreapp2.0\CallCard.dll
+C:\Users\Javier Gonzalez\Documents\CodingDojo\Bootcamp\C#\C#_IntroAssignments\CallCard\bin\Debug\netcoreapp2.0\CallCard.pdb
+C:\Users\Javier Gonzalez\Documents\CodingDojo\Bootcamp\C#\C#_IntroAssignments\CallCard\obj\Debug\netcoreapp2.0\CallCard.csproj.CoreCompileInputs.cache
+C:\Users\Javier Gonzalez\Documents\CodingDojo\Bootcamp\C#\C#_IntroAssignments\CallCard\obj\Debug\netcoreapp2.0\CallCard.AssemblyInfoInputs.cache
+C:\Users\Javier Gonzalez\Documents\CodingDojo\Bootcamp\C#\C#_IntroAssignments\CallCard\obj\Debug\netcoreapp2.0\CallCard.AssemblyInfo.cs
+C:\Users\Javier Gonzalez\Documents\CodingDojo\Bootcamp\C#\C#_IntroAssignments\CallCard\obj\Debug\netcoreapp2.0\CallCard.dll
+C:\Users\Javier Gonzalez\Documents\CodingDojo\Bootcamp\C#\C#_IntroAssignments\CallCard\obj\Debug\netcoreapp2.0\CallCard.pdb
