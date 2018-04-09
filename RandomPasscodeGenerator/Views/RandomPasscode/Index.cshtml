@@ -5,9 +5,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Random Passcode Generator</title>
+    <link rel="stylesheet" href="~/css/style.css">
 </head>
 <body>
-    <div class="container">
+    <div class="container lg-1 md-1 sm-1">
         <h3>Random passcode (passcode #@ViewBag.GenCount)</h3>
         <form action="generate" method="post">
             <input type="text" name="passcode" value = "@ViewBag.Passcode"><br><br>
