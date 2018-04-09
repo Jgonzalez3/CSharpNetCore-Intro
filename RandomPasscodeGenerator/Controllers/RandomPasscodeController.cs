@@ -10,7 +10,6 @@ namespace RandomPasscode.Controllers{
         [HttpGet]
         [Route("")]
         public IActionResult Index(int count){
-
             int? IntVariable = HttpContext.Session.GetInt32("count");
             if (IntVariable == null){
                 IntVariable = 1;
