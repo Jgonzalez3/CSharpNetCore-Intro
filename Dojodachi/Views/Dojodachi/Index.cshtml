@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Dojodachi</title>
+    <link rel="stylesheet" href="~/css/style.css">
+</head>
+<body>
+    <div class="container lg-1 md-1 sm-1">
+        <header>
+            <span>Fullness: @ViewBag.Full</span>
+            <span>Happiness: @ViewBag.Happy</span>
+            <span>Meals: @ViewBag.Meals</span>
+            <span>Energy: @ViewBag.Energy</span>
+        </header>
+        <div class="dojodachiscreen">
+            <img src="/images/changingshape.gif" alt="dojodachi pic">
+            @if(@ViewBag.Full == 100 && @ViewBag.Happy == 100 && @ViewBag.Energy == 100)
+            {
+                <p>Congratulations! You won!</p>
+            }
+            @if(@ViewBag.Full != 100 && @ViewBag.Happy != 100 && @ViewBag.Energy != 100)
+            {
+                <p>@TempData["message"]</p>
+            }
+        </div>
+        <footer>
+            @if(@ViewBag.Full == 100 && @ViewBag.Happy == 100 && @ViewBag.Energy == 100)
+            {
+                <form action="restart" method="post">
+                    <button type="submit">Restart??</button>
+                </form>
+            }
+            @if(@ViewBag.Full == 0 || @ViewBag.Happy == 0)
+            {
+                <form action="restart" method="post">
+                    <button type="submit">Restart?</button>
+                </form>
+            }
+            @if(@ViewBag.Full != 0 && ViewBag.Happy != 0 && @ViewBag.Full != 100)
+            {
+                <form action="feed" method="post">
+                    <button class="interact" type="submit">Feed</button>
+                </form>
+                <form action="play" method="post">
+                    <button class="interact" type="submit">Play</button>
+                </form>
+                <form action="work" method="post">
+                    <button class="interact" type="submit">Work</button>
+                </form>
+                <form action="sleep" method="post">
+                    <button class="interact" type="submit">Sleep</button>
+                </form>
+            }
+        </footer>
+    </div>
+</body>
+</html>
