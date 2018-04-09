@@ -1,0 +1,10 @@
+C:\Users\Javier Gonzalez\Documents\CodingDojo\Bootcamp\C#\NetCoreIntroAssignments\RandomPasscodeGenerator\bin\Debug\netcoreapp2.0\RandomPasscodeGenerator.deps.json
+C:\Users\Javier Gonzalez\Documents\CodingDojo\Bootcamp\C#\NetCoreIntroAssignments\RandomPasscodeGenerator\bin\Debug\netcoreapp2.0\RandomPasscodeGenerator.runtimeconfig.json
+C:\Users\Javier Gonzalez\Documents\CodingDojo\Bootcamp\C#\NetCoreIntroAssignments\RandomPasscodeGenerator\bin\Debug\netcoreapp2.0\RandomPasscodeGenerator.runtimeconfig.dev.json
+C:\Users\Javier Gonzalez\Documents\CodingDojo\Bootcamp\C#\NetCoreIntroAssignments\RandomPasscodeGenerator\bin\Debug\netcoreapp2.0\RandomPasscodeGenerator.dll
+C:\Users\Javier Gonzalez\Documents\CodingDojo\Bootcamp\C#\NetCoreIntroAssignments\RandomPasscodeGenerator\bin\Debug\netcoreapp2.0\RandomPasscodeGenerator.pdb
+C:\Users\Javier Gonzalez\Documents\CodingDojo\Bootcamp\C#\NetCoreIntroAssignments\RandomPasscodeGenerator\obj\Debug\netcoreapp2.0\RandomPasscodeGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Javier Gonzalez\Documents\CodingDojo\Bootcamp\C#\NetCoreIntroAssignments\RandomPasscodeGenerator\obj\Debug\netcoreapp2.0\RandomPasscodeGenerator.AssemblyInfoInputs.cache
+C:\Users\Javier Gonzalez\Documents\CodingDojo\Bootcamp\C#\NetCoreIntroAssignments\RandomPasscodeGenerator\obj\Debug\netcoreapp2.0\RandomPasscodeGenerator.AssemblyInfo.cs
+C:\Users\Javier Gonzalez\Documents\CodingDojo\Bootcamp\C#\NetCoreIntroAssignments\RandomPasscodeGenerator\obj\Debug\netcoreapp2.0\RandomPasscodeGenerator.dll
+C:\Users\Javier Gonzalez\Documents\CodingDojo\Bootcamp\C#\NetCoreIntroAssignments\RandomPasscodeGenerator\obj\Debug\netcoreapp2.0\RandomPasscodeGenerator.pdb
